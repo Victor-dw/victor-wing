@@ -1,3 +1,1 @@
 # victor-wing
-
-hello,everyone.
